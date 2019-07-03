@@ -1,0 +1,9 @@
+Open Interview1 MVC solution from Github.
+
+Write some code to open the file called 'Juxtapositions'. The file is in the Git Repo.
+
+Each line is a database record. Each column of the record is delimited with the '|' character.
+ 
+Create a List containing each record, then sort through the list and find all records containing the word 'juxtaposition'.
+
+Print the List of records containing the word juxtaposition on the console and save it to a new file in the solution folder. Print out the count also.
